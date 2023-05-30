@@ -1,0 +1,21 @@
+{
+  "score": 35,
+  "errors": [
+    "Question 2: expected type to be float, but found NoneType",
+    "Question 4:\n  EXPECTED: {'*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite with Queen Bed & Free Wifi',\n '*NO GUEST SERVICE FEE* Beekman Tower Studio with Queen Bed & Free Wifi',\n '1 bedroom furnished with WIFI and cable. Murr Hill',\n '2Bed/ 2Bath Impeccable Stylish Brooklyn Home',\n '5min walk to L train - Free WiFi & Cleaning',\n 'BIG BEDROOM CLOSE TO LA GUARDIA AIRPORT FREE WIFI',\n 'Cable and wfi, L/G included.',\n 'Coney Island  Amphitheat  MCU 1 br  Wifi Cable **',\n 'Coney Island MCU Park Wi fi Cable Apt****',\n 'Cozy, impeccable, sunlit West Village studio',\n 'Cozy,budget friendly, cable inc, private entrance!',\n 'Explore NYC From Our Private Studio w/Free Wifi',\n 'Great Chelsea Location, Couch/2nd bed, Free WiFi',\n 'Historic Turret Retreat (Smart TV/Cable/Wifi)',\n 'Huge 1bdrm w pt Doorman, WiFi/Cable, Bottled Water',\n 'Impeccable Private one&half bedroom and full bath',\n 'J- **LUXURY SHARED ROOM 2PPL FREE WIFI+CABLE+AC',\n 'J- *LUXURY SHARED ROOM AC FREE WIFI CABLE, GARDEN',\n 'J- COZY ROOM FOR 1 FEMALE FREE WIFI & COFFEE',\n 'J- HOTEL STYLE SHARE ROOM FOR 2PPL FREE CABLE WIFI',\n 'J- HOTEL STYLE SHARE ROOM FOR 2PPL FREE WIFI CABLE',\n 'J- LUXURY SHARED ROOM, AC FREE WIFI+CABLE GARDEN',\n 'Landmark 1 Bedroom has 2 beds, Free WiFi',\n 'Luxury condo- private room + bath w cable TV/W/D',\n 'Modern and Safe Place,Free Wifi',\n 'Newly renovated 2 bedroom with FREE WIFI',\n 'One Bedroom Mini studio - Free WIFI',\n 'PRIVATE 1BR APT: Free WIFI & DIRECT TV',\n 'Private 2 BR APT: Free WIFI & JACUZZI',\n 'Private Bedroom in MANHATTAN (Free Wifi)',\n 'Private Studio: Landmark Dt (Smart TV/Wifi/Cable)',\n 'Pvt entrance lower level apt w/cable-wi-fi pvt bth',\n 'ROOM AC WI-FI PARKING CABLE FOR 2',\n 'Staten Island - Free Wifi, Parking Space, Near NYC',\n 'Sunny Hudson Yards/ Chelsea Studio, Free WiFi',\n 'Tudor Studio (Wifi/Premium Cable) w Private Entry'}\n  ACTUAL: {'1 bedroom furnished with WIFI and cable. Murr Hill',\n '2Bed/ 2Bath Impeccable Stylish Brooklyn Home',\n 'Cable and wfi, L/G included.',\n 'Coney Island  Amphitheat  MCU 1 br  Wifi Cable **',\n 'Coney Island MCU Park Wi fi Cable Apt****',\n 'Cozy, impeccable, sunlit West Village studio',\n 'Cozy,budget friendly, cable inc, private entrance!',\n 'Historic Turret Retreat (Smart TV/Cable/Wifi)',\n 'Huge 1bdrm w pt Doorman, WiFi/Cable, Bottled Water',\n 'Impeccable Private one&half bedroom and full bath',\n 'J- **LUXURY SHARED ROOM 2PPL FREE WIFI+CABLE+AC',\n 'J- *LUXURY SHARED ROOM AC FREE WIFI CABLE, GARDEN',\n 'J- HOTEL STYLE SHARE ROOM FOR 2PPL FREE CABLE WIFI',\n 'J- HOTEL STYLE SHARE ROOM FOR 2PPL FREE WIFI CABLE',\n 'J- LUXURY SHARED ROOM, AC FREE WIFI+CABLE GARDEN',\n 'Luxury condo- private room + bath w cable TV/W/D',\n 'Private Studio: Landmark Dt (Smart TV/Wifi/Cable)',\n 'Pvt entrance lower level apt w/cable-wi-fi pvt bth',\n 'ROOM AC WI-FI PARKING CABLE FOR 2',\n 'Tudor Studio (Wifi/Premium Cable) w Private Entry'}",
+    "Question 5: expected type to be int, but found NoneType",
+    "Question 6: expected type to be int, but found NoneType",
+    "Question 7: expected type to be int, but found NoneType",
+    "Question 8: expected type to be int, but found NoneType",
+    "Question 9: expected type to be int, but found NoneType",
+    "Question 10: expected type to be int, but found NoneType",
+    "Question 16:\n  EXPECTED: ['Kensington', 'Midtown', 'Harlem', 'Clinton Hill']\n  ACTUAL: ['Kensington', 'missing', 'Harlem', 'missing']\n  NOTES: order=strict",
+    "Question 17: expected type to be dict, but found NoneType"
+  ],
+  "missing": [
+    18,
+    19,
+    20
+  ],
+  "summary": "Result: 7 of 20 passed, for an estimated score of 35% (prior to grader deductions)."
+}

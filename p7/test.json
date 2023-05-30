@@ -1,0 +1,13 @@
+{
+  "score": 70,
+  "errors": [
+    "Question 11: expected type to be dict, but found NoneType",
+    "Question 12: expected type to be dict, but found NoneType",
+    "Question 15: expected type to be dict, but found NoneType",
+    "Question 18: expected type to be Figure, but found NoneType",
+    "Question 19: expected type to be Figure, but found NoneType",
+    "Question 20: expected type to be Figure, but found NoneType"
+  ],
+  "missing": [],
+  "summary": "Result: 14 of 20 passed, for an estimated score of 70% (prior to grader deductions)."
+}

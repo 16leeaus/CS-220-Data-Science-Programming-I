@@ -1,0 +1,30 @@
+question,type,value,notes
+1,int,133,
+2,str,'Dora',case=strict
+3,str,'1',case=strict
+4,int,3,
+5,int,190,
+6,str,'Floyd',case=strict
+7,float,6502484699.24812,tolerance=0.000001
+8,float,8310000000.000001,tolerance=0.000001
+9,str,'Andrew',case=strict
+10,int,2005,
+11,str,'Katrina',case=strict
+12,float,27300000000.0,tolerance=0.000001
+13,int,8,
+14,int,9,
+15,int,13,
+16,int,810,
+17,int,1956,
+18,int,1960,
+19,list,"['Allen',
+ 'Andrew',
+ 'Camille',
+ 'Irma',
+ 'Karen',
+ 'Katrina',
+ 'Labor Day',
+ 'Maria',
+ 'Rita',
+ 'Wilma']",order=strict
+20,int,779,
